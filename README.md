@@ -1,1 +1,1 @@
-# EDA-on-SampleSuperstore-Dataset
+I've performed Exploratory Data Analysis on the dataset SampleSuperstore. The SampleSuperstore dataset contains information about a fictional superstore's sales, profit, and other related attributes. I've analysed the data and gained valuable insights through it to improve Sales.
